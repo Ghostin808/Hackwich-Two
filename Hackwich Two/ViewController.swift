@@ -19,5 +19,8 @@ class ViewController: UIViewController {
         print("Hello World")
     }
     
+    @IBAction func DontpressmebuttonPressed(_ sender: Any) {
+        print("Self-Destruct Initiated")
+    }
 }
 
